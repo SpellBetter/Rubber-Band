@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(0, 131, 191);
+}
+#totalNodes{
+	width: 100%;
+}
+#name {
+  margin: auto;
+  margin-top: 5px;
+  padding: 3px;
+  border: 1px solid black;
+  width: 594px;
+  background-color: yellow;
+  font-family: monospace;
+  font-size: 16px;
+  text-align: center;
+}
+
+#mycanvas {
+  border: 1px solid black;
+  text-align: center;
+  margin: auto;
+}
+
+#align {
+  margin: auto;
+  text-align: center;
+}
